@@ -11,6 +11,6 @@ Add a throwaway account/PK to .env
 
 `npx hardhat compile`
 
-Alter the mainnet/testnet urls in hardhat-config.ts if desired.
+Alter the mainnet/testnet urls in hardhat.config.ts if desired.
 
 `npx hardhat run deploy.ts`
